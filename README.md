@@ -1,13 +1,13 @@
-# 🩺 Liver Disease Prediction App
+# Liver Disease Prediction App
 
 A Machine Learning web application to predict **liver disease** based on patient health parameters.  
 Built using **scikit-learn**, **Streamlit**, and deployed on **Streamlit Cloud**.  
 
-👉 Live App: [Liver Disease Prediction](https://liver-disease-prediction-1.streamlit.app/)
+Live App: [Liver Disease Prediction](https://liver-disease-prediction-1.streamlit.app/)
 
 ---
 
-## 🚀 Project Workflow
+## Project Workflow
 
 1. **Data Preprocessing & Training**
    - Cleaned dataset and handled missing values.
@@ -30,7 +30,7 @@ Built using **scikit-learn**, **Streamlit**, and deployed on **Streamlit Cloud**
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - data
    - csv file
@@ -44,7 +44,7 @@ Built using **scikit-learn**, **Streamlit**, and deployed on **Streamlit Cloud**
 - assets
    - liver_icon.png   
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python 3.10+
 - Pandas for data manipulation
 - Scikit-learn for ML pipeline
@@ -52,7 +52,7 @@ Built using **scikit-learn**, **Streamlit**, and deployed on **Streamlit Cloud**
 -  Streamlit for UI & deployment
 -  Pillow (PIL) for image rendering
 
-## 📊 Learnings
+## Learnings
 - Creating and saving ML pipelines with scikit-learn.
 - Handling custom transformers (AgeBinner) during pickle loading.
 - Building interactive web apps using Streamlit.
