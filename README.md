@@ -45,15 +45,15 @@ Built using **scikit-learn**, **Streamlit**, and deployed on **Streamlit Cloud**
    - liver_icon.png   
 
 ## 🛠️ Tech Stack
-  Python 3.10+
-  Pandas for data manipulation
-  Scikit-learn for ML pipeline
-  Joblib for saving model
-  Streamlit for UI & deployment
-  Pillow (PIL) for image rendering
+- Python 3.10+
+- Pandas for data manipulation
+- Scikit-learn for ML pipeline
+- Joblib for saving model
+-  Streamlit for UI & deployment
+-  Pillow (PIL) for image rendering
 
 ## 📊 Learnings
-Creating and saving ML pipelines with scikit-learn.
-Handling custom transformers (AgeBinner) during pickle loading.
-Building interactive web apps using Streamlit.
-Deploying ML models to Streamlit Cloud.
+- Creating and saving ML pipelines with scikit-learn.
+- Handling custom transformers (AgeBinner) during pickle loading.
+- Building interactive web apps using Streamlit.
+- Deploying ML models to Streamlit Cloud.
