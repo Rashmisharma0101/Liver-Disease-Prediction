@@ -32,18 +32,17 @@ Built using **scikit-learn**, **Streamlit**, and deployed on **Streamlit Cloud**
 
 ## 📂 Project Structure
 
-Liver-Disease-Prediction/
-│
-├── models/
-│ └── best_model.pkl # Saved trained model
-│
-├── src/
-│ ├── app.py # Streamlit app (frontend)
-│ ├── train_model.py # Script to train and save model
-│ ├── init.py
-│
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+-data
+   csv file
+-models/
+   best_model.pkl # Saved trained model
+-src/
+   app.py # Streamlit app (frontend)
+   train_model.py # Script to train and save model
+   init.py
+-requirements.txt # Dependencies
+-assets
+   liver_icon.png   
 
 ## 🛠️ Tech Stack
   Python 3.10+
